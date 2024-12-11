@@ -29,3 +29,9 @@ Performance Tracking Monitor sales and revenue trends through interactive graphs
 
 6 Conclusion
 This project highlights how data-driven decision-making can enhance business strategy The insights generated can help Walmart improve its marketing approach optimize product offerings and boost overall performance through targeted strategies
+
+
+
+
+
+
