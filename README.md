@@ -1,32 +1,31 @@
- project analyzing Walmarts Marketing Dataset using Power BI focusing on extracting actionable business insights through detailed data analysis and visualization
+Overview
+Our team conducted an in-depth analysis of Walmarts marketing dataset using Power BI to uncover actionable business insights The project aimed to explore customer behavior product performance revenue trends and operational efficiency through interactive dashboards and reports
 
-📊 Key Highlights of the Project
-1️⃣ Overall Performance
+2 Key Features
+Interactive Dashboards Comprehensive visuals for performance tracking
+Data-Driven Insights Real-time business metrics for revenue gross income and customer ratings
+Custom Filters Dynamic filters for cities product lines and customer types
+Trend Analysis Monthly revenue growth and top-selling products
+Performance Metrics Comparative analysis by branches and product lines
 
-Total Revenue 64593K
-Total Gross Income 32297K
-Average Customer Rating 697
+3 Tools Used
+Power BI For creating interactive dashboards and detailed visualizations
+Microsoft Excel For data preprocessing and formatting
+Data Source Walmarts marketing dataset containing sales customer and revenue information
 
-2️⃣ Customer Insights
+4 Key Insights
+Revenue and Profit Total revenue of 64593K and gross income of 32297K
+Customer Activity Female and member customers are more active
+Payment Preferences Cash is the most preferred payment method
+Top-Selling Products Electronic accessories and fashion accessories lead in sales
+Branch Performance Atlantic Ocean and Indian Ocean branches show the highest gross income
+Growth Trends Consistent monthly revenue growth from January to March
 
-Gender Female customers are slightly more active than male customers
-Payment Methods Cash is the most preferred method followed by credit card and ewallet
-Customer Type Member customers are more active than normal customers
-City Activity Mandalay leads as the most active city followed by Naypyitaw and Yangon
+5 How to Use
+Dashboard Navigation Use the home screen to access different dashboard views
+Filter Options Select filters by product lines branches and payment methods
+Insight Panels Review summarized business metrics and visual insights
+Performance Tracking Monitor sales and revenue trends through interactive graphs and tables
 
-3️⃣ Product Line Performance
-
-TopSelling Lines Electronic accessories and fashion accessories stand out as the leaders
-Gross Income by Branch The Atlantic Ocean and Indian Ocean branches dominate with the highest gross income
-
-4️⃣ Revenue Trends
-
-Monthly Growth Revenue has steadily increased from January to March
-
-🎯 Key Business Takeaways
-📌 Walmart is excelling in revenue and gross income metrics
-📌 Female and member customers contribute significantly to business activity
-📌 Cash remains the most popular payment method
-📌 Electronic accessories and fashion accessories are driving sales growth
-📌 Certain branches like the Atlantic Ocean and Indian Ocean show remarkable performance
-📌 The upward revenue trend highlights consistent growth
+6 Conclusion
+This project highlights how data-driven decision-making can enhance business strategy The insights generated can help Walmart improve its marketing approach optimize product offerings and boost overall performance through targeted strategies
